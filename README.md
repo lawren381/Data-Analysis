@@ -1,5 +1,4 @@
 # Data-Analysis
-# data-analysis2
 This repository contains the  data analysis project i have done.
 The First Project i did was a "CALL CENTER PROJECT" where i was tasked to analyzed a companies  dataset to help determine the performance of it's call center. 
 Below indicate what was determined during the Analysis
